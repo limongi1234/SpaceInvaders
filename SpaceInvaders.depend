@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1367082603 source:d:\documents\f.e.s.o\2013-1\estruturas de dados e algoritmos ii\spaceinvaders\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
